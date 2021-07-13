@@ -9,6 +9,8 @@
 
 This project is a Notes App.
 
+![Screenshot 2021-07-13 at 20 17 31](https://user-images.githubusercontent.com/8350140/125512574-5bfddc62-2742-4112-9adb-6a60cf399b48.png)
+
 ## Technologies
 
 Project is created with:
